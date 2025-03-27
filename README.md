@@ -22,7 +22,6 @@ It includes:
 | Node Exporter | Exposes disk, memory, and CPU metrics  | http://localhost:9100    |
 | Grafana       | Visualizes metrics from Prometheus     | http://localhost:3000    |
 
----
 ```
 
 ```## 📁 Project Structure
