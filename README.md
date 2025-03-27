@@ -1,8 +1,7 @@
 
 
-## ✅ Updated `README.md`
 
-```markdown
+
 # 📊 Disk Monitoring Stack
 
 This project sets up a lightweight monitoring stack using **Prometheus**, **Grafana**, and **Node Exporter** to track disk usage (used, free, and total space) on a Linux system — including WSL2 paths like `/mnt/c`.
@@ -15,7 +14,7 @@ It includes:
 
 ---
 
-## 🚀 Stack Overview
+```## 🚀 Stack Overview
 
 | Component     | Purpose                                | Access URL               |
 |---------------|----------------------------------------|--------------------------|
@@ -24,11 +23,11 @@ It includes:
 | Grafana       | Visualizes metrics from Prometheus     | http://localhost:3000    |
 
 ---
+```
 
-## 📁 Project Structure
+```## 📁 Project Structure
 
 > View it using:
-```bash
 ./show_structure.sh
 ```
 
@@ -128,5 +127,5 @@ make structure  # Show the project file tree
 
 **Sreyeesh Garimella**  
 🔗 [github.com/Sreyeesh](https://github.com/Sreyeesh)
-```
+
 
