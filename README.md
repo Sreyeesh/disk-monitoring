@@ -1,11 +1,5 @@
 
 
-✅ Adds a **Project Structure** section that matches your `show_structure.sh` output  
-✅ Includes how to use the `show_structure.sh` script  
-✅ Keeps the professional formatting for portfolio-quality presentation  
-
----
-
 ## ✅ Updated `README.md`
 
 ```markdown
