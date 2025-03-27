@@ -1,0 +1,21 @@
+# Local Docker volumes or mount points
+volumes/
+data/
+
+# Logs and runtime files
+*.log
+
+# Environment config
+.env
+
+# macOS and Windows junk
+.DS_Store
+Thumbs.db
+
+# VSCode or JetBrains IDEs
+.vscode/
+.idea/
+
+# Python cache (optional)
+__pycache__/
+*.pyc
